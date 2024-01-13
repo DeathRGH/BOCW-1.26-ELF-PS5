@@ -1,0 +1,4 @@
+.vs/
+BOCW 1.26 ELF/build/
+BOCW 1.26 ELF/x64/
+*.elf
