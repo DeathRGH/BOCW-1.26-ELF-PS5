@@ -20,6 +20,8 @@ void ApplyPatches() {
 	// mov r14, 999
 	memcpy((void *)ResolveAddress(ADDR_Patch_AllClient_InfAmmo), "\x49\xC7\xC6\xE7\x03\x00\x00\x90", 8);
 
+	memcpy((void*)ResolveAddress(ADDR_Patch_AllClient_InfPoints), "\x89\x89\x24\x5D\x00\x00", 6); 
+
 	// return 1 for loot item quantity
 	// 
 	// xor eax, eax
