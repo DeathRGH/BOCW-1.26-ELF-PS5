@@ -11,6 +11,8 @@
 #define ADDR_Patch_AllClient_Godmode 0x0000000000D93560
 #define ADDR_Patch_AllClient_InfAmmo 0x0000000000AA436C
 
+#define ADDR_Patch_AllClient_InfPoints 0x0000000000DE60B3
+
 #define ADDR_Patch_UnlockAll 0x00000000011C0270
 #define ADDR_Patch_MaxClasses 0x00000000009B8340
 
