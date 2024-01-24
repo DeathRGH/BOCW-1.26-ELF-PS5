@@ -12,6 +12,7 @@
 #define ADDR_Patch_AllClient_InfAmmo 0x0000000000AA436C
 
 #define ADDR_Patch_UnlockAll 0x00000000011C0270
+#define ADDR_Patch_MaxClasses 0x00000000009B8340
 
 // structures and data
 #define ADDR_MaterialWhite 0x0000000004556620

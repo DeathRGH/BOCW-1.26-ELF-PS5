@@ -11,3 +11,4 @@ Go make cool stuff :)
 ## Credits
 
 - [Alaix](https://twitter.com/HeyImAlaix) (Unlock All Patch)
+- [zhm86](https://twitter.com/JayChou03680255) (12 Classes Patch)
