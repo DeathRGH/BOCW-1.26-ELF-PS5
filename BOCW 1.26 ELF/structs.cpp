@@ -49,5 +49,5 @@ bool IsInZombies() {
 		return false;
 	}
 
-	return !strcmp(cgs->gametype, "zclassic") || !strcmp(cgs->gametype, "zsurvival") || !strcmp(cgs->gametype, "zonslaught") || !strcmp(cgs->gametype, "zonslaught_containment");
+	return !strcmp(cgs->gametype, "zclassic") || !strcmp(cgs->gametype, "zsurvival") || !strcmp(cgs->gametype, "zonslaught") || !strcmp(cgs->gametype, "zonslaught_containment") || !strcmp(cgs->gametype, "doa");
 }
